@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @LoneW0lfOperator
-- 👀 I’m interested in animation and development.
-- 🌱 I’m currently learning the Unity Engine and C#.
-- 💞️ I’m looking to collaborate on nothing, for now...
-- 📫 How to reach me ... lukemurdock@outlook.com
+- Yo! Im Luke.
+- I'm a programmer and gamer.
+- I have a youtube channel and other stuffs
 
 <!---
 LoneW0lfOperator/LoneW0lfOperator is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
